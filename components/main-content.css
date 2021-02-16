@@ -1,0 +1,10 @@
+.main-content {
+  width: 100%;
+  overflow: hidden;
+}
+
+.main-content__inner {
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}

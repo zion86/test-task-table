@@ -1,0 +1,21 @@
+.aside {
+  flex-shrink: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.aside--left {
+  width: 50px;
+  background-color: teal;
+}
+
+.aside--right {
+  width: 110px;
+  background-color: tomato;
+}
+
+@media(max-width: 600px) {
+  .aside {
+    display: none;
+  }
+}

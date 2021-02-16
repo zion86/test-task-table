@@ -1,0 +1,21 @@
+@import "components/page.css";
+@import "components/aside.css";
+@import "components/main-content.css";
+@import "components/header.css";
+@import "components/content.css";
+@import "components/table.css";
+
+:root {
+  --height: 50px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
