@@ -1,0 +1,9 @@
+.footer {
+  background-color: pink;
+  padding: 20px;
+}
+
+.sticky {
+  position: sticky;
+  top: 0;
+}

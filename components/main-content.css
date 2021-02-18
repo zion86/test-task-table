@@ -6,6 +6,5 @@
 }
 
 .main-content__inner {
-  overflow-y: auto;
   overflow-x: hidden;
 }
